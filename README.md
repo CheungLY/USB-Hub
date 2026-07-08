@@ -1,11 +1,11 @@
 # USB-Hub
 In this project I learnt how to develop a USB hub using a Macondo guide.
 
-The USB hub serves a simple role of connecting devices behind a USB together. Needing split chargers at home and a curiosity in electronics led me to be fascinated by this guide and decided to try develop it and learn more about circuitry.
+The USB hub serves a simple role of connecting devices behind a USB together, by connecting 2 USBCs 2 USBAs to a hub IC and then to an upstream USBC, allowing charging and file transfer. Needing split chargers at home and a curiosity in electronics led me to be fascinated by this guide and decided to try develop it and learn more about circuitry.
 
 As my first project, this quickly taught me how schematics work, such as netting, how to connect ships on an IC, and the structure of a pcb, and how there are multiple layers involved from silkscreen to ground and voltage layers and how they link together.
 
-In this project, I faced many somewhat simple challenges. Starting from no experience, menat that I very easily was oblivious to issues like overlapping components and how to plan routing. At the start I imagined routing would be the biggest game of connect the dots I had ever played without realising I was able to use multiple layers for routing
+In this project, I faced many somewhat simple challenges. Starting from no experience, menat that I very easily was oblivious to issues like overlapping components and how to plan routing. At the start I imagined routing would be the biggest game of connect the dots I had ever played without realising I was able to use multiple layers for routing. I then also realised that the pin netting for the USB HUB IC could be changed while preserving functionality, to avoid overlapping wires.
 
 At first this was definately difficult, but after the routing most things proved quite simple apart from some basic grounding errors.
 
