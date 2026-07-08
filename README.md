@@ -10,10 +10,13 @@ In this project, I faced many somewhat simple challenges. Starting from no exper
 At first this was definately difficult, but after the routing most things proved quite simple apart from some basic grounding errors.
 
 This is the final schematic:
+
 <img width="2362" height="1672" alt="SCH_Schematic1_1-P1_2026-07-08" src="https://github.com/user-attachments/assets/747a3cb8-a29d-41ec-a720-8f3831dcbc17" />
 
 This is the final:
+
 <img width="797" height="401" alt="image" src="https://github.com/user-attachments/assets/68c5b5e9-b30c-4939-8e4e-524827456002" />
 
 This is the 3D render:
+
 <img width="1491" height="731" alt="image" src="https://github.com/user-attachments/assets/c6281660-8a84-425b-a589-e23e6778fbbd" />
