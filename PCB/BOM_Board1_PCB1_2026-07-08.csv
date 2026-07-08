@@ -1,0 +1,8 @@
+﻿"No.","Quantity","Comment","Designator","Footprint","Value","Manufacturer Part","Manufacturer","Supplier Part","Supplier"
+"1","8","1uF","C1,C2,C3,C4,C6,C7,C9,C11","C0603","1uF","CL10A105KO8NNNC","SAMSUNG(三星)","C1592","LCSC"
+"2","3","100nF","C5,C8,C10","C0603","100nF","CL10B104KO8NNNC","SAMSUNG(三星)","C66501","LCSC"
+"3","2","5.1kΩ","R1,R2","R0603","5.1kΩ","FRC0603F5101TS","FOJAN(富捷)","C2907044","LCSC"
+"4","4","56kΩ","R3,R4,R5,R6","R0603","56kΩ","FRC0603J563 TS","FOJAN(富捷)","C2907184","LCSC"
+"5","1","SL2.1s","U1","SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL","","SL2.1s","CoreChips(和芯润德)","C2684433","LCSC"
+"6","2","10.0 QHHTZB6.3","USB1,USB2","USB-A-TH_10.0QHHTZB6.3","","10.0 QHHTZB6.3","SHOU HAN(首韩)","C668591","LCSC"
+"7","3","TYPE-C 16PIN 2MD(073)","USB3,USB4,USB5","USB-C-SMD_TYPE-C-16PIN-2MD-073","","TYPE-C 16PIN 2MD(073)","SHOU HAN(首韩)","C2765186","LCSC"
