@@ -23,5 +23,3 @@ This is the 3D render:
 
 <img width="905" height="666" alt="image" src="https://github.com/user-attachments/assets/d99fd1cb-0725-4488-9208-1dc5657b133b" />
 <img width="585" height="727" alt="image" src="https://github.com/user-attachments/assets/5a549a67-e14c-427f-bd11-c413eaa6fb3d" />
-
-
