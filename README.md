@@ -1,7 +1,7 @@
 # USB-Hub
 In this project I learnt how to develop a USB hub using a Macondo guide.
 
-Here is the link: https://pro.easyeda.com/editor#id=2e76f19754eb4b5d8cd38e7c9e5385ab
+Here is the link:[ https://pro.easyeda.com/editor#id=2e76f19754eb4b5d8cd38e7c9e5385ab](https://pro.easyeda.com/editor#id=2e76f19754eb4b5d8cd38e7c9e5385ab)
  
 This is the OSHWLab link:  https://oshwlab.com/cheunagly/project_gvkruypc
 The USB hub serves a simple role of connecting devices behind a USB together, by connecting 2 USBCs 2 USBAs to a hub IC and then to an upstream USBC, allowing charging and file transfer. Needing split chargers at home and a curiosity in electronics led me to be fascinated by this guide and decided to try develop it and learn more about circuitry.
