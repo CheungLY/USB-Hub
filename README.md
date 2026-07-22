@@ -15,8 +15,13 @@ This is the final schematic:
 
 This is the final:
 
-<img width="797" height="401" alt="image" src="https://github.com/user-attachments/assets/68c5b5e9-b30c-4939-8e4e-524827456002" />
+<img width="737" height="450" alt="image" src="https://github.com/user-attachments/assets/37b18ccc-693b-4eff-b9b6-b3a2f6f1bd30" />
+<img width="731" height="441" alt="image" src="https://github.com/user-attachments/assets/2fb528a1-2aeb-4c0c-8f72-0f2da9cdb04d" />
+
 
 This is the 3D render:
 
-<img width="1491" height="731" alt="image" src="https://github.com/user-attachments/assets/c6281660-8a84-425b-a589-e23e6778fbbd" />
+<img width="905" height="666" alt="image" src="https://github.com/user-attachments/assets/d99fd1cb-0725-4488-9208-1dc5657b133b" />
+<img width="585" height="727" alt="image" src="https://github.com/user-attachments/assets/5a549a67-e14c-427f-bd11-c413eaa6fb3d" />
+
+
